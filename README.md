@@ -20,8 +20,8 @@ Additionally, anaconda supports the use of *markdown*, which allows us to not on
 
 In this paper, two *rational verifications* are executed, to achieve the following goals:
 
-1. Describe and test the introduced *model of rationality*
-2. Quantify the model of rationality's *impact* on potential *historical trades*
+1. Describe and test the introduced **model of rationality**
+2. Quantify the model of rationality's **impact** on potential **historical trades**
 
 The code therefore had been structured into the following components:
 
