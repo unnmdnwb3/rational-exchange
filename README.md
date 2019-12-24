@@ -2,6 +2,8 @@
 
 This repository contains all the code used for paper **"Rational Exchange: Incentives in Atomic Cross Chain Swaps"** by *Janick Rueegger* and *Dr. Guilherme Sperb Machado*.
 
+**Please note:** *This paper is currently under review. Hence we cannot currently publish its contents. Thank you for understanding.*
+
 ## Abstract
 
 The exchange of digital currencies between distrusting parties across discrete blockchain-technologies bears enormous potential. As a fundamental capability for interoperability, it might play a critical role in the tokenization of commerce. In contrast to traditional financial systems and centralized crypto-exchanges, protocols based on Hash Time Lock Contracts (HTLCs) provide a method to trade crypto-currencies in a peer-to-peer manner, without the mediation of a trusted third- party authority. However, considering the omission of central coordination, remarkable price fluctuations of traded assets and the protocol’s extensive time-to-completion, involved parties might be incentivized to deviate from the protocol. Without the guarantee of a successful exchange, it is required to analyze the protocol’s prevalent incentive-structures. Thus, this paper introduces and tests a model of rationality to further quantify its impact on potential historical trades, using real exchange-rates. Analyzing different crypto-currency trading pairs we highlight the probabilistic nature of a typical HTLC-based protocol. The results show that although the protocol does not offer a guarantee for a successful trade, it is applicable in scenarios of exchange-rates with low drift, low volatility, and optimized time-to-completion.
@@ -39,4 +41,4 @@ Future use of the provided data has to be compliant with the regulations of thes
 
 ## Issues and Feedback
 
-For issues and feedback, please open a [github issue](https://github.com/unnmdnwb3/rational-exchange/issues) and describe experienced problems.
+If you experience problems, find inconsistencies or generelly want to provide us with feedback, please open an [issue](https://github.com/unnmdnwb3/rational-exchange/issues) and describe your experience. Thank you in advance!
