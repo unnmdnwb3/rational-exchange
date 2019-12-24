@@ -35,7 +35,7 @@ The code therefore had been structured into the following components:
 
 ## Data
 
-The data used in this paper was provided by [Coinbase Pro API](https://docs.pro.coinbase.com/) and [Poloniex API](https://docs.poloniex.com/#introduction). All data are publicly available and can be downloaded using *public APIs*. We thank both entities for offering these services for free!
+The data used in this paper was provided by [Coinbase Pro API](https://docs.pro.coinbase.com/) and [Poloniex API](https://docs.poloniex.com/#introduction) and is publicly available, using their *public endpoints*. We thank both entities for offering these services for free!
 
 Future use of the provided data has to be compliant with the regulations of these entities.
 
