@@ -1,6 +1,6 @@
 # Rational Exchange
 
-This repository contains all the code used for paper **"Rational Exchange: Incentives in Atomic Cross Chain Swaps"** by *Janick Rueegger* and *Dr. Guilherme Sperb Machado*.
+This repository contains all the code used for paper **"Rational Exchange: Incentives in Atomic Cross Chain Swaps"** by [*Janick Rueegger*](https://github.com/unnmdnwb3) and [*Dr. Guilherme Sperb Machado*](https://machados.org/gsm).
 
 **Please note:** *This paper is currently under review. Hence we cannot currently publish its contents. Thank you for understanding.*
 
